@@ -25,6 +25,7 @@ the_post();?>
 	<section>
 		<div class="content no-side">
 			<div class="main"><?php the_content()?></div>
+			test
 		</div>
 	</section>
 </div>
