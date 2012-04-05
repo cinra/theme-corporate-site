@@ -18,7 +18,7 @@ get_header(); ?>
 <div id="content" role="main">
 
 <?php //get_template_part( 'loop', 'index' );?>
-
+<div class="top-banner"></div>
 </div><!-- #content -->
 </div><!-- #container -->
 
