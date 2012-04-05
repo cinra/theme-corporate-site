@@ -1,0 +1,55 @@
+
+/* IE (all versions) */
+/* ----------------------------------------- */
+
+* {zoom:1;}
+
+body {padding-top:37px;}
+
+header.global {
+	z-index:1000;
+}
+
+.article header {
+	width:970px;
+	text-align:center;
+	
+}
+
+
+
+.article header p.label {
+	display:none;
+}
+
+.article header h1 {
+	padding-top:37px;
+}
+
+*+html .article hr {
+	width:890px;
+	height:1px;
+	background:none;
+	border:1px solid #93C5D9;
+}
+
+.article p.btn.alt a {
+	width:888px;
+	height:38px;
+	border:1px solid #DDD;
+}
+.article hr {
+	clear:both;
+	}
+.project .panel{
+	margin:0 auto;
+}
+
+
+
+.related-project {
+	
+}
+.article section.project {
+margin-left:40px;
+}

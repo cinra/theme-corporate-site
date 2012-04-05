@@ -1,0 +1,43 @@
+[copy]
+type = text
+size = 80
+label = キャッチコピー
+
+[staff]
+type = textarea
+cols = 80
+rows = 4
+label = スタッフ
+
+[date_label]
+type = text
+size = 80
+label = 日時ラベル
+default = 開始日時
+
+[date_value]
+type = text
+size = 35
+label = 日時
+date = true
+dateFormat = yyyy/mm/dd
+
+[list_label]
+type = text
+size = 80
+label = 実績ラベル
+default = 実績
+
+[list_value]
+type = textarea
+cols = 80
+rows = 10
+label = 実績
+
+[list_image]
+type = file
+label = リストに表示するメインイメージ（380x70px）
+
+[panel_image]
+type = file
+label = パネルに表示するメインイメージ（190x160px）

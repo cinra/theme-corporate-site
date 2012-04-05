@@ -1,0 +1,17 @@
+@charset "utf-8";
+/*
+Theme Name: Theme for CINRA.CO.JP
+Theme URI: http://www.cinra.co.jp/
+Description: リニューアル版cinra.co.jpのテーマです。
+Author: cinra creative division
+Version: 0.1
+License: GNU General Public License
+License URI: license.txt
+Tags: black
+*/
+
+@import "css/reset.css";
+@import "css/typography.css";
+@import "css/layout.css";
+
+@import "css/base.css";

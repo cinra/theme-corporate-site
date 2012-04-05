@@ -1,0 +1,22 @@
+
+/ ---- top
+
+/news ---- news
+/news/{yyyy}/{mm}/{dd}/{id} ---- news > detail
+
+/profile ---- company profile
+/profile/message ---- company profile > message
+/profile/company ---- company profile > about
+/profile/recruit
+/profile/access
+
+/service ---- service
+/service/creative
+/service/media
+/service/content
+/service/event
+/service/artist
+
+/contact
+
+/mailmag
