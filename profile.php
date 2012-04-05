@@ -139,7 +139,7 @@ the_post();?>
 		<hr />
 		<div class="content address clearfix">
 			<p class="companyname">株式会社 CINRA</p>
-			<p>東京都渋谷区神宮前6-16-18サンドー原宿ビル5F<br />
+			<p>東京都渋谷区東3-15-7 ヒューリック恵比寿ビル4F<br />
 			TEL：03-6427-4780<br />
 			FAX：03-6427-4781</p>
 			<p>東京メトロ千代田線・副都心線「明治神宮前」駅から徒歩5分<br />
