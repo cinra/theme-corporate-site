@@ -270,6 +270,7 @@ body.category-artist .article header ul.nav li a {
 	background-image: url(../img/top-banner.png);
 	bottom:50px;
 	right:70px;
+	cursor: pointer;
 	
 }
 .top-banner:hover {
