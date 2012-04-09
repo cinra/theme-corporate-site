@@ -133,8 +133,8 @@ the_post();?>
 		<h1 class="label access">アクセス</h1>
 		<div class="map with_label">
 			<p class="map"><img src="<?php bloginfo('template_url')?>/img/map.png" /></p>
-			<p class="btn google-maps"><a href="http://maps.google.co.jp/maps?q=%93%8C%8B%9E%93s%8Fa%92J%8B%E6%90_%8B{%91O%82U%92%9A%96%DA%82P%82U%81%7C%82P%82W" target="_blank">Google Mapsで地図を確認する</a></p>
-			<p class="btn print-map alt"><a href="<?php bloginfo('url')?>/map/" target="_blank">地図を印刷する</a></p>
+			<?php /* p class="btn google-maps"><a href="http://maps.google.co.jp/maps?q=%93%8C%8B%9E%93s%8Fa%92J%8B%E6%90_%8B{%91O%82U%92%9A%96%DA%82P%82U%81%7C%82P%82W" target="_blank">Google Mapsで地図を確認する</a></p>
+			<p class="btn print-map alt"><a href="<?php bloginfo('url')?>/map/" target="_blank">地図を印刷する</a></p */ ?>
 		</div>
 		<hr />
 		<div class="content address clearfix">
@@ -142,9 +142,9 @@ the_post();?>
 			<p>東京都渋谷区東3-15-7 ヒューリック恵比寿ビル4F<br />
 			TEL：03-6427-4780<br />
 			FAX：03-6427-4781</p>
-			<p>東京メトロ千代田線・副都心線「明治神宮前」駅から徒歩5分<br />
-			JR山手線「原宿駅」から徒歩7分<br />
-			JR・東京メトロ各線「渋谷駅」から徒歩10分</p>
+			<p>JR恵比寿駅北口より徒歩5分<br />
+			日比谷線恵比寿駅1・2出口より徒歩5分<br />
+			明治通りを渋谷方面に少し歩いたところです</p>
 		</div>
 		<div class="btn2top"><a href="#anc_top">PAGE TOP</a></div>
 	</section>
