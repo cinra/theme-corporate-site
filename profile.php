@@ -133,8 +133,8 @@ the_post();?>
 		<h1 class="label access">アクセス</h1>
 		<div class="map with_label">
 			<p class="map"><img src="<?php bloginfo('template_url')?>/img/map.png" /></p>
-			<?php /* p class="btn google-maps"><a href="http://maps.google.co.jp/maps?q=%93%8C%8B%9E%93s%8Fa%92J%8B%E6%90_%8B{%91O%82U%92%9A%96%DA%82P%82U%81%7C%82P%82W" target="_blank">Google Mapsで地図を確認する</a></p>
-			<p class="btn print-map alt"><a href="<?php bloginfo('url')?>/map/" target="_blank">地図を印刷する</a></p */ ?>
+			<p class="btn google-maps"><a href="http://g.co/maps/6n4nb" target="_blank">Google Mapsで地図を確認する</a></p>
+			<?php /* p class="btn print-map alt"><a href="<?php bloginfo('url')?>/map/" target="_blank">地図を印刷する</a></p */ ?>
 		</div>
 		<hr />
 		<div class="content address clearfix">
